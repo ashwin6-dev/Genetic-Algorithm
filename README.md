@@ -1,3 +1,69 @@
 # Genetic Algorithm
 
 Simple Genetic Algorithm which generates an input phrase
+
+```
+Enter Phrase: hello world
+BEST IN GENERATION htlwifdorqw, FITNESS 0.36363636363636365
+BEST IN GENERATION hetao ljccu, FITNESS 0.36363636363636365
+BEST IN GENERATION nbljo ehqlw, FITNESS 0.36363636363636365
+BEST IN GENERATION selfojnqrjd, FITNESS 0.45454545454545453
+BEST IN GENERATION hmplo rltqd, FITNESS 0.45454545454545453
+BEST IN GENERATION helf   erlk, FITNESS 0.5454545454545454
+BEST IN GENERATION ielwocoorlp, FITNESS 0.5454545454545454
+BEST IN GENERATION herqo uorls, FITNESS 0.6363636363636364
+BEST IN GENERATION hgqlo yirld, FITNESS 0.6363636363636364
+BEST IN GENERATION herqo wornd, FITNESS 0.7272727272727273
+BEST IN GENERATION hbllo asrld, FITNESS 0.7272727272727273
+BEST IN GENERATION hellowwor d, FITNESS 0.8181818181818182
+BEST IN GENERATION heplo rorld, FITNESS 0.8181818181818182
+BEST IN GENERATION heleo wosld, FITNESS 0.8181818181818182
+BEST IN GENERATION hllvo world, FITNESS 0.8181818181818182
+BEST IN GENERATION hello wordb, FITNESS 0.8181818181818182
+BEST IN GENERATION hellocporld, FITNESS 0.8181818181818182
+BEST IN GENERATION hellowworld, FITNESS 0.9090909090909091
+BEST IN GENERATION hellb world, FITNESS 0.9090909090909091
+BEST IN GENERATION helao world, FITNESS 0.9090909090909091
+BEST IN GENERATION hello world, FITNESS 1.0
+```
+
+```
+Enter Phrase: peter parker is spiderman
+BEST IN GENERATION emkea usqkkr abkucyfrfsao, FITNESS 0.24
+BEST IN GENERATION noqelzxehabrqgs jajakimjn, FITNESS 0.24
+BEST IN GENERATION pqxyrjdmvcutsistsbfotmifn, FITNESS 0.24
+BEST IN GENERATION pktwv kauxloj l wpiefbern, FITNESS 0.32
+BEST IN GENERATION pktwv kauxloj l wpiefbern, FITNESS 0.32
+BEST IN GENERATION pptir cakrfklayhrs derega, FITNESS 0.32
+BEST IN GENERATION peaedoyarccr ystxrpdnrpwq, FITNESS 0.4
+BEST IN GENERATION petdc laverluig njidnrkxs, FITNESS 0.4
+BEST IN GENERATION pxvev pbnksroms p igggicn, FITNESS 0.4
+BEST IN GENERATION petzc laverluig njiynrmac, FITNESS 0.44
+BEST IN GENERATION petzc laverluig njiynrmac, FITNESS 0.44
+BEST IN GENERATION nbtka rqzksr is  pvhhofan, FITNESS 0.44
+BEST IN GENERATION pjteg prrcez hstsrfoyrmvn, FITNESS 0.52
+BEST IN GENERATION pjteg prrcez hstsrfoyrmvn, FITNESS 0.52
+BEST IN GENERATION petzrtfcukkr npydppderman, FITNESS 0.56
+BEST IN GENERATION petzrtfcukkr npydppderman, FITNESS 0.56
+BEST IN GENERATION petzrtfcukkr npydppderman, FITNESS 0.56
+BEST IN GENERATION petzrtfcukkr npydppderman, FITNESS 0.56
+BEST IN GENERATION pltbs plrkeg estsyiweumgn, FITNESS 0.56
+....
+BEST IN GENERATION peter parker is sptderman, FITNESS 0.96
+BEST IN GENERATION peter parker is sptderman, FITNESS 0.96
+BEST IN GENERATION peter parker is sptderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peker parker is spiderman, FITNESS 0.96
+BEST IN GENERATION petei parker is spiderman, FITNESS 0.96
+BEST IN GENERATION peter parker is spiderman, FITNESS 1.0
+```
