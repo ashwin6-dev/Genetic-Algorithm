@@ -1,6 +1,6 @@
 import random
 
-target = "genetic algorithms are very cool"
+target = input("Enter Phrase: ")
 alphabet = list("abcdefghijklmnopqrstuvwxyz ")
 
 def create_popn(size):
